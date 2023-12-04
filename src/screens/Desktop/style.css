@@ -1,0 +1,529 @@
+.DESKTOP {
+  background-color: #d9d9d9;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.DESKTOP .iphone {
+  background-color: #d9d9d9;
+  overflow: hidden;
+  position: relative;
+}
+
+.DESKTOP .overlap {
+  position: absolute;
+  top: 100px;
+}
+
+.DESKTOP .PRODUCT-IMG {
+  left: 0;
+  position: absolute;
+}
+
+.DESKTOP .div {
+  left: 0;
+  position: absolute;
+}
+
+.DESKTOP .overlap-group {
+  height: 351px;
+  position: relative;
+}
+
+.DESKTOP .element {
+  height: 154px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 96px;
+  width: 150px;
+}
+
+.DESKTOP .img {
+  height: 154px;
+  left: 283px;
+  object-fit: cover;
+  position: absolute;
+  top: 88px;
+  width: 150px;
+}
+
+.DESKTOP .element-2 {
+  height: 351px;
+  left: 67px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 300px;
+}
+
+.DESKTOP .overlap-group-2 {
+  height: 401px;
+  left: 891px;
+  position: absolute;
+  top: 13px;
+  width: 549px;
+}
+
+.DESKTOP .element-3 {
+  height: 200px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 80px;
+  width: 171px;
+}
+
+.DESKTOP .element-4 {
+  height: 200px;
+  left: 378px;
+  object-fit: cover;
+  position: absolute;
+  top: 80px;
+  width: 171px;
+}
+
+.DESKTOP .element-5 {
+  height: 401px;
+  left: 123px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 343px;
+}
+
+.DESKTOP .overlap-2 {
+  height: 401px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 659px;
+}
+
+.DESKTOP .element-6 {
+  height: 200px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 89px;
+  width: 171px;
+}
+
+.DESKTOP .element-7 {
+  height: 401px;
+  left: 316px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 343px;
+}
+
+.DESKTOP .element-8 {
+  height: 401px;
+  left: 102px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 343px;
+}
+
+.DESKTOP .logo-asset {
+  object-fit: cover;
+  position: absolute;
+}
+
+.DESKTOP .BUTTON-BUY {
+  height: 30px;
+  left: 165px;
+  position: absolute;
+  top: 45px;
+  width: 104px;
+}
+
+.DESKTOP .button-text-wrapper {
+  background-color: #000000;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 30px;
+  position: relative;
+  width: 102px;
+}
+
+.DESKTOP .button-text {
+  color: #ffffff;
+  font-family: "Digital Numbers-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: 39px;
+}
+
+.DESKTOP .PRODUCT-PRICE {
+  color: #000000;
+  font-family: "Digital Numbers-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 192px;
+  letter-spacing: 1.4px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 49px;
+}
+
+.DESKTOP .NAVIGATION {
+  height: 38px;
+  left: 363px;
+  position: absolute;
+  top: 280px;
+  width: 18px;
+}
+
+.DESKTOP .icon-chevron-left {
+  height: 38px;
+  left: 53px;
+  position: absolute;
+  top: 280px;
+  width: 18px;
+}
+
+.DESKTOP .PRODUCT-NAME-TAG {
+  height: 30px;
+  left: 97px;
+  position: absolute;
+  top: 280px;
+  width: 242px;
+}
+
+.DESKTOP .PRODUCT-NAME-wrapper {
+  background-color: #000000;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 30px;
+  position: relative;
+  width: 240px;
+}
+
+.DESKTOP .PRODUCT-NAME {
+  color: #ffffff;
+  font-family: "Digital Numbers-Regular", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  width: 189px;
+}
+
+.DESKTOP .overlap-wrapper {
+  height: 40px;
+  left: 624px;
+  position: absolute;
+  top: 758px;
+  transition: all 0.2s ease-in-out;
+  width: 192px;
+}
+
+.DESKTOP .div-wrapper {
+  background-color: #000000;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 40px;
+  position: relative;
+  width: 190px;
+}
+
+.DESKTOP .text-wrapper {
+  color: #ffffff;
+  font-family: "Digital Numbers-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 65px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5px;
+}
+
+.DESKTOP .PRODUCT-PRICE-2 {
+  color: #000000;
+  font-family: "Digital Numbers-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 687px;
+  letter-spacing: 2.5px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 691px;
+}
+
+.DESKTOP .NAVIGATION-2 {
+  height: 50px;
+  left: 511px;
+  position: absolute;
+  top: 845px;
+  width: 416px;
+}
+
+.DESKTOP .icon-chevron-right {
+  height: 54px;
+  left: 385px;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 35px;
+}
+
+.DESKTOP .icon-chevron-left-2 {
+  height: 58px;
+  left: -4px;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 35px;
+}
+
+.DESKTOP .overlap-group-wrapper {
+  height: 40px;
+  left: 582px;
+  position: absolute;
+  top: 850px;
+  width: 282px;
+}
+
+.DESKTOP .overlap-3 {
+  background-color: #000000;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 40px;
+  position: relative;
+  width: 280px;
+}
+
+.DESKTOP .PRODUCT-NAME-2 {
+  color: #ffffff;
+  font-family: "Digital Numbers-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 34px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+}
+
+.DESKTOP .element-9 {
+  object-fit: cover;
+  position: absolute;
+}
+
+.DESKTOP .overlap-4 {
+  position: absolute;
+}
+
+.DESKTOP .element-MODEL-VIEWER {
+  height: 399px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 429px;
+}
+
+.DESKTOP .text-wrapper-2 {
+  color: #000000;
+  font-family: "Digital Numbers-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 305px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 354px;
+  transform: rotate(-90deg);
+  width: 189px;
+}
+
+.DESKTOP .element-d-MODEL-VIEWER {
+  height: 700px;
+  left: 67px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 700px;
+}
+
+.DESKTOP .BUTTON-BUY-2 {
+  height: 50px;
+  left: 322px;
+  position: absolute;
+  top: 834px;
+  transition: all 0.2s ease-in-out;
+  width: 192px;
+}
+
+.DESKTOP .overlap-group-3 {
+  background-color: #000000;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 50px;
+  position: relative;
+  width: 190px;
+}
+
+.DESKTOP .button-text-2 {
+  color: #ffffff;
+  font-family: "Digital Numbers-Regular", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5px;
+}
+
+.DESKTOP .PRODUCT-PRICE-3 {
+  color: #000000;
+  font-family: "Digital Numbers-Regular", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 378px;
+  letter-spacing: 3px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 761px;
+}
+
+.DESKTOP .NAVIGATION-3 {
+  height: 62px;
+  left: 198px;
+  position: absolute;
+  top: 990px;
+  width: 437px;
+}
+
+.DESKTOP .PRODUCT-NAME-TAG-2 {
+  height: 40px;
+  left: 278px;
+  position: absolute;
+  top: 997px;
+  width: 282px;
+}
+
+.DESKTOP .text-wrapper-3 {
+  color: #000000;
+  font-family: "Digital Numbers-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 711px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 540px;
+  transform: rotate(-90deg);
+  width: 211px;
+}
+
+.DESKTOP .logo-asset-2 {
+  height: 500px;
+  left: 454px;
+  object-fit: cover;
+  position: absolute;
+  top: 670px;
+  width: 500px;
+}
+
+.DESKTOP .HEADER {
+  height: 100px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.DESKTOP .HEADER-2 {
+  height: 100px;
+}
+
+.DESKTOP .overlap-group-4 {
+  position: relative;
+}
+
+.DESKTOP .header {
+  background-color: #ffffff;
+  box-shadow: 0px 4px 4px #00000040;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.DESKTOP .text-wrapper-4 {
+  color: #000000;
+  font-family: "Digital Numbers-Regular", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+}
+
+.DESKTOP .icon-cart {
+  position: absolute;
+}
+
+.DESKTOP .text-wrapper-5 {
+  color: #000000;
+  font-family: "Digital Numbers-Regular", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 200px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 31px;
+}
+
+.DESKTOP .text-wrapper-6 {
+  color: #000000;
+  font-family: "Digital Numbers-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 1054px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 35px;
+}
+
+.DESKTOP .vector-wrapper {
+  height: 30px;
+  left: 1347px;
+  position: absolute;
+  top: 36px;
+  width: 40px;
+}
+
+.DESKTOP .vector {
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 40px;
+}
+
+.DESKTOP .logo-asset-3 {
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+}
